@@ -95,8 +95,8 @@
   - 5.3.1 经验教训登记册
   - 5.3.2 项目最终验收单
 
-## 项目总览
-
+## 项目总览 
+> WBS  分解（参考NASA WBS HandBOOK）
 ```mermaid
 flowchart LR
     ROOT["海外整车发运管理系统项目"]
